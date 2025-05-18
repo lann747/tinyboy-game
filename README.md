@@ -27,7 +27,9 @@ python -m http.server 8000
 ```
 Buka browser dan akses http://localhost:8000 untuk mulai bermain.
 
-📁 Struktur Proyek
+---
+
+## 📁 Struktur Proyek
 - index.html: Halaman utama game.
 - c2runtime.js, data.js: File runtime dan data game.
 - leaderboard.html: Halaman untuk menampilkan leaderboard.
@@ -35,15 +37,21 @@ Buka browser dan akses http://localhost:8000 untuk mulai bermain.
 - images/, media/: Folder berisi aset gambar dan media game.
 - sw.js, offline.js, offlineClient.js: Skrip untuk mendukung fitur offline.
 
-🛠️ Teknologi yang Digunakan
+---
+
+## 🛠️ Teknologi yang Digunakan
 - HTML5 & CSS3: Struktur dan desain antarmuka.
 - JavaScript: Logika dan interaktivitas game.
 - PHP: Backend untuk mengelola leaderboard.
 - Service Workers: Mendukung fitur offline.
 
-📷 Cuplikan Layar
+---
+
+## 📷 Cuplikan Layar
 ![gambar1](/images/ssgame1.png)
 ![gambar1](/images/ssgame2.png)
+
+---
 
 ## 👤 Dibuat oleh
 Lantera Meunasah (lann747)
